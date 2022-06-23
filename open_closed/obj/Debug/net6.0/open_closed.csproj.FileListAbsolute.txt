@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\bin\Debug\net6.0\open_closed.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\bin\Debug\net6.0\open_closed.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\bin\Debug\net6.0\open_closed.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\bin\Debug\net6.0\open_closed.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\bin\Debug\net6.0\open_closed.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\refint\open_closed.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\open_closed.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\open_closed\obj\Debug\net6.0\ref\open_closed.dll

@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\bin\Debug\net6.0\Liskov_substitution.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\bin\Debug\net6.0\Liskov_substitution.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\bin\Debug\net6.0\Liskov_substitution.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\bin\Debug\net6.0\Liskov_substitution.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\bin\Debug\net6.0\Liskov_substitution.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\refint\Liskov_substitution.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\Liskov_substitution.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Liskov_substitution\obj\Debug\net6.0\ref\Liskov_substitution.dll
