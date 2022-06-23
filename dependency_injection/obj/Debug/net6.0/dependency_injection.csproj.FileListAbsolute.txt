@@ -1,0 +1,5 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\dependency_injection\obj\Debug\net6.0\dependency_injection.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\dependency_injection\obj\Debug\net6.0\dependency_injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\dependency_injection\obj\Debug\net6.0\dependency_injection.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\dependency_injection\obj\Debug\net6.0\dependency_injection.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\dependency_injection\obj\Debug\net6.0\dependency_injection.csproj.CoreCompileInputs.cache

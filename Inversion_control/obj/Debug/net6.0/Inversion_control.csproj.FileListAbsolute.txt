@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\bin\Debug\net6.0\Inversion_control.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\bin\Debug\net6.0\Inversion_control.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\bin\Debug\net6.0\Inversion_control.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\bin\Debug\net6.0\Inversion_control.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\bin\Debug\net6.0\Inversion_control.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\refint\Inversion_control.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\Inversion_control.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Inversion_control\obj\Debug\net6.0\ref\Inversion_control.dll

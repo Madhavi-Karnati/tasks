@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\bin\Debug\net6.0\extension_using_this.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\bin\Debug\net6.0\extension_using_this.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\bin\Debug\net6.0\extension_using_this.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\bin\Debug\net6.0\extension_using_this.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\bin\Debug\net6.0\extension_using_this.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\refint\extension_using_this.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\extension_using_this.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\basic programs\obj\Debug\net6.0\ref\extension_using_this.dll

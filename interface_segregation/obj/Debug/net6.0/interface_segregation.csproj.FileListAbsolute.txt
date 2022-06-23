@@ -1,0 +1,5 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\interface_segregation\obj\Debug\net6.0\interface_segregation.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\interface_segregation\obj\Debug\net6.0\interface_segregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\interface_segregation\obj\Debug\net6.0\interface_segregation.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\interface_segregation\obj\Debug\net6.0\interface_segregation.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\interface_segregation\obj\Debug\net6.0\interface_segregation.csproj.CoreCompileInputs.cache
