@@ -1,0 +1,17 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\bin\Debug\net6.0\Simple_injector.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\bin\Debug\net6.0\Simple_injector.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\bin\Debug\net6.0\Simple_injector.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\bin\Debug\net6.0\Simple_injector.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\bin\Debug\net6.0\Simple_injector.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\bin\Debug\net6.0\SimpleInjector.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.csproj.CopyComplete
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\refint\Simple_injector.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\Simple_injector.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\Simple_injector\obj\Debug\net6.0\ref\Simple_injector.dll

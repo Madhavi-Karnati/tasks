@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\bin\Debug\net6.0\single_responsibility.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\bin\Debug\net6.0\single_responsibility.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\bin\Debug\net6.0\single_responsibility.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\bin\Debug\net6.0\single_responsibility.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\bin\Debug\net6.0\single_responsibility.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\refint\single_responsibility.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\single_responsibility.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\single_responsibility\obj\Debug\net6.0\ref\single_responsibility.dll
