@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\bin\Debug\net6.0\PLINQ1.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\bin\Debug\net6.0\PLINQ1.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\bin\Debug\net6.0\PLINQ1.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\bin\Debug\net6.0\PLINQ1.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\bin\Debug\net6.0\PLINQ1.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\refint\PLINQ1.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\PLINQ1.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\PLINQ1\PLINQ1\obj\Debug\net6.0\ref\PLINQ1.dll
