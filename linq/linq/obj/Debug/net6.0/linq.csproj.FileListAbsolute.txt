@@ -1,0 +1,17 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\bin\Debug\net6.0\linq.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\bin\Debug\net6.0\linq.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\bin\Debug\net6.0\linq.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\bin\Debug\net6.0\linq.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\bin\Debug\net6.0\linq.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\bin\Debug\net6.0\Baseline.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.csproj.CopyComplete
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\refint\linq.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\linq.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\linq\linq\obj\Debug\net6.0\ref\linq.dll

@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Baseline/3.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Baseline.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Baseline.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Baseline/3.2.2": {
+      "sha512": "K+SeFyX8XfJmh9J3uWM/6ci6Bh0bW5+3Ps+FqYYP7CVDiXwr5ZIb1JNoMOCSiUB44FV8bcEuDfh0gs2NfcHS8w==",
+      "type": "package",
+      "path": "baseline/3.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "baseline.3.2.2.nupkg.sha512",
+        "baseline.nuspec",
+        "lib/net5.0/Baseline.dll",
+        "lib/net6.0/Baseline.dll",
+        "lib/netstandard2.0/Baseline.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Baseline >= 3.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Madhavi_Karnati\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Madhavi_Karnati\\source\\repos\\basic programs\\linq\\linq\\linq.csproj",
+      "projectName": "linq",
+      "projectPath": "C:\\Users\\Madhavi_Karnati\\source\\repos\\basic programs\\linq\\linq\\linq.csproj",
+      "packagesPath": "C:\\Users\\Madhavi_Karnati\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Madhavi_Karnati\\source\\repos\\basic programs\\linq\\linq\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Madhavi_Karnati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Baseline": {
+            "target": "Package",
+            "version": "[3.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
