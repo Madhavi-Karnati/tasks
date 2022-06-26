@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\bin\Debug\net6.0\var_dynamic.exe
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\bin\Debug\net6.0\var_dynamic.deps.json
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\bin\Debug\net6.0\var_dynamic.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\bin\Debug\net6.0\var_dynamic.dll
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\bin\Debug\net6.0\var_dynamic.pdb
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.dll
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\refint\var_dynamic.dll
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.pdb
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\var_dynamic.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\var_dynamic\var_dynamic\obj\Debug\net6.0\ref\var_dynamic.dll

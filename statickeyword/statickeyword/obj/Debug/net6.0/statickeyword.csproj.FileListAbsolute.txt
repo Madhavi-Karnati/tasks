@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\bin\Debug\net6.0\statickeyword.exe
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\bin\Debug\net6.0\statickeyword.deps.json
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\bin\Debug\net6.0\statickeyword.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\bin\Debug\net6.0\statickeyword.dll
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\bin\Debug\net6.0\statickeyword.pdb
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.dll
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\refint\statickeyword.dll
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.pdb
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\statickeyword.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\statickeyword\statickeyword\obj\Debug\net6.0\ref\statickeyword.dll

@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\bin\Debug\net6.0\string_types.exe
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\bin\Debug\net6.0\string_types.deps.json
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\bin\Debug\net6.0\string_types.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\bin\Debug\net6.0\string_types.dll
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\bin\Debug\net6.0\string_types.pdb
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.dll
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\refint\string_types.dll
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.pdb
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\string_types.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\tasks\string_types\string_types\obj\Debug\net6.0\ref\string_types.dll
