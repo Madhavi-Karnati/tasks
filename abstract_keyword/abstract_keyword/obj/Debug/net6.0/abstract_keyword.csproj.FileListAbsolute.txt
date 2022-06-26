@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\bin\Debug\net6.0\abstract_keyword.exe
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\bin\Debug\net6.0\abstract_keyword.deps.json
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\bin\Debug\net6.0\abstract_keyword.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\bin\Debug\net6.0\abstract_keyword.dll
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\bin\Debug\net6.0\abstract_keyword.pdb
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.dll
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\refint\abstract_keyword.dll
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.pdb
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\abstract_keyword.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\abstract_keyword\abstract_keyword\obj\Debug\net6.0\ref\abstract_keyword.dll
