@@ -1,0 +1,15 @@
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\bin\Debug\net6.0\params.exe
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\bin\Debug\net6.0\params.deps.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\bin\Debug\net6.0\params.runtimeconfig.json
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\bin\Debug\net6.0\params.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\bin\Debug\net6.0\params.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.csproj.AssemblyReference.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.AssemblyInfoInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.AssemblyInfo.cs
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\refint\params.dll
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.pdb
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\params.genruntimeconfig.cache
+C:\Users\Madhavi_Karnati\source\repos\basic programs\params\params\obj\Debug\net6.0\ref\params.dll
